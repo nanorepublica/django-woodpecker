@@ -1,4 +1,4 @@
 django-woodpecker
 =================
 
-Brower-based music player
+Browser-based music player
